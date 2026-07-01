@@ -4,9 +4,9 @@ This project was my sandbox while figuring out how Git and GitHub fit into my wo
 It’s not a polished project, just a place where I learned by doing.
 
 ## Tools I Used
-Git & GitHub: version control, pushing/pulling, branching, and understanding SHAs
-Git‑Bash: command‑line practice and building comfort with Git commands
-VS Code: editing files, managing folders, and integrating Git into my workflow
+- Git & GitHub: version control, pushing/pulling, branching, and understanding SHAs
+- Git‑Bash: command‑line practice and building comfort with Git commands
+- VS Code: editing files, managing folders, and integrating Git into my workflow
 
 ## How I Learned
 I started by watching a YouTube tutorial and following along step‑by‑step. As I practiced, I filled in gaps in my understanding by looking up explanations and researching concepts with Copilot. Once the basics made sense, I imagined how I would interact with my own files and how Git would fit into my workflow. After that, I began creating the repositories for my data analytics portfolio and practiced using Git and GitHub in a way that felt natural to me.
