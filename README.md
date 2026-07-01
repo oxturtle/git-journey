@@ -9,7 +9,7 @@ It’s not a polished project, just a place where I learned by doing.
 - VS Code: editing files, managing folders, and integrating Git into my workflow
 
 ## How I Learned
-I started by watching a YouTube tutorial and following along step‑by‑step. As I practiced, I filled in gaps in my understanding by looking up explanations and researching concepts with Copilot. Once the basics made sense, I imagined how I would interact with my own files and how Git would fit into my workflow. After that, I began creating the repositories for my data analytics portfolio and practiced using Git and GitHub in a way that felt natural to me.
+I started by watching a YouTube tutorial (Git & GitHub Crash Course for Beginners [2026]) and followed along step‑by‑step. As I practiced, I filled in gaps in my understanding by looking up explanations and researching concepts with Copilot. Once the basics made sense, I imagined how I would interact with my own files and how Git would fit into my workflow. After that, I began creating the repositories for my data analytics portfolio and practiced using Git and GitHub in a way that felt natural to me.
 
 ## What I Learned
 How to initialize a repo and connect it to GitHub
